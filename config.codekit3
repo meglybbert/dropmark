@@ -200,26 +200,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/index.kit": {
-		"ft": 2048,
-		"oA": 0,
-		"oAP": "\/docs\/index.html",
-		"oF": 0
-		},
 	"\/js\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/docs\/js\/jquery.js",
-		"oF": 0,
-		"sC": 0,
-		"tS": 0
-		},
-	"\/js\/scripts.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
